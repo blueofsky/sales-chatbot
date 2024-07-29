@@ -1,0 +1,11 @@
+langchain==0.2.11
+langchain-core==0.2.24
+langchain-text-splitters==0.2.2
+langsmith==0.1.93
+langchain-openai==0.1.19
+langchain-community==0.2.10
+openai==1.37.1
+tiktoken==0.7.0
+faiss-cpu==1.8.0
+loguru==0.7.2
+gradio==4.39.0
